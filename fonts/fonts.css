@@ -1,0 +1,27 @@
+/* Средний */
+@font-face {
+  font-family: 'EB Garamond-Medium';
+  font-weight: 500;
+  src: url(../fonts/ebgaramondmedium.ttf);
+}
+
+/* Обычный */
+@font-face {
+  font-family: 'EB Garamond-Regular';
+  font-weight: 400;
+  src: local('EB Garamond-Regular'),
+		url(../fonts/ebgaramondregular.ttf);
+}
+
+@font-face {
+  font-family: 'Inter-Regular';
+  font-weight: 400;
+  src: url(../fonts/interregular.ttf);
+}
+
+@font-face {
+  font-family: 'Inter-Bold';
+  font-weight: 500;
+  src: url(../fonts/interbold.ttf);
+}
+
